@@ -12,6 +12,15 @@
       "category": "Religious"
     },
     {
+    "province": "Gandaki",
+    "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Galyang 07 Syangja",
+    "name": "Siddha Gufa",
+    "description": "It is a ancient cave consisting various ancient structures and statues.",
+    "category": "Religious cave"
+  },
+    {
       "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Waling Municipality",
