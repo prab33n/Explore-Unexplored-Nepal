@@ -1,6 +1,15 @@
 {
   "ExploreNepal": [
     {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Galyang 03 Syangja",
+      "name": "Aalam Devi Mandir",
+      "description": "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
+      "category": "Religious"
+    },
+    {
       "province": "Lumbini",
       "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
@@ -9,5 +18,6 @@
       "description": "Birth Place of Lord Buddha",
       "category": "Religious"
     }
+  
   ]
 }
