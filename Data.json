@@ -1,11 +1,22 @@
 {
   "ExploreNepal": [
+
+
     {
       "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Galyang Municipality",
       "address": "Galyang 03 Syangja",
       "name": "Aalam Devi Mandir",
+      "description": "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
+      "category": "Religious"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Waling Municipality",
+      "address": "Waling",
+      "name": "Garausur Mandir",
       "description": "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
       "category": "Religious"
     },
