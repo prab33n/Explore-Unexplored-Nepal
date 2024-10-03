@@ -10,6 +10,7 @@
       "category": "Religious Temple"
     },
 
+
     {
       "province": "Gandaki",
       "district": "Syangja",
@@ -27,6 +28,15 @@
     "name": "Siddha Gufa",
     "description": "It is a ancient cave consisting various ancient structures and statues.",
     "category": "Religious cave"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
+    "municipality": "Waling Municipality",
+    "address": "sorek",
+    "name": "sorek maidan",
+    "description": "It is hill providing beautiful scenario with clouds and feels like a way to heaven. Also often professional paragliders also do paraglidings from there",
+    "category": "Religious Temple"
   },
     {
       "province": "Gandaki",
