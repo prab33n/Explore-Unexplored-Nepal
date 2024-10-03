@@ -1,6 +1,14 @@
 {
   "ExploreNepal": [
-
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Sirsekot",
+      "name": "Akaladevi Temple",
+      "description": "It is a ancient temple with wide range of religious status and is considered as templ of very powerful goddess.",
+      "category": "Religious Temple"
+    },
 
     {
       "province": "Gandaki",
