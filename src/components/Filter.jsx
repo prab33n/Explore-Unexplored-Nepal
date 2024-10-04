@@ -2,16 +2,9 @@ import React from 'react';
 
 const Filter = ({ categories, selectedCategory, setSelectedCategory, searchText, setSearchText, toggleDarkMode }) => {
     return (
-        <div className="d-flex justify-content-between align-items-center mb-3">
-            <div className="d-flex align-items-center">
-                {/* <input
-          type="text"
-          placeholder="Search..."
-          className="form-control me-2"
-          value={searchText}
-          onChange={(e) => setSearchText(e.target.value)}
-        /> */}
-                <form className="input-group search-bar" onSubmit={searchText}>
+        <div className="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-3">
+            <div className="d-flex flex-column flex-md-row align-items-start align-items-md-center mb-2 mb-md-0">
+                <form className="input-group search-bar mb-2 mb-md-0 me-md-2" onSubmit={searchText}>
                     <span className="input-group-text" id="basic-addon1">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -35,7 +28,7 @@ const Filter = ({ categories, selectedCategory, setSelectedCategory, searchText,
                 <select
                     value={selectedCategory}
                     onChange={(e) => setSelectedCategory(e.target.value)}
-                    className="form-select me-2"
+                    className="form-select"
                 >
                     <option value="">All Categories</option>
                     {categories.map((category, index) => (
@@ -43,10 +36,9 @@ const Filter = ({ categories, selectedCategory, setSelectedCategory, searchText,
                     ))}
                 </select>
             </div>
-            <button className="btn btn-secondary" onClick={toggleDarkMode} >                
+            <button className="btn btn-secondary mt-2 mt-md-0" onClick={toggleDarkMode}>
                 <i className="fa-solid fa-moon"></i>&nbsp;
                 <i className="fa-solid fa-sun"></i>
-
             </button>
         </div>
     );
