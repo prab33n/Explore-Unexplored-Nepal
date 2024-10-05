@@ -48,6 +48,15 @@ const exploreNepal = [
       },
       {
         "province": "Lumbini",
+        "district": "Palpa",
+        "municipality": "Tinau Rural Municipality",
+        "address": "Lumbini",
+        "name": "Siddhababa",
+        "description": "Hindu religious temple",
+        "category": "Religious"
+      },
+      {
+        "province": "Lumbini",
         "district": "Rupandehi",
         "municipality": "Lumbini Sasnkritik Rural Municipality",
         "address": "Lumbini",
