@@ -98,6 +98,76 @@ const exploreNepal = [
       "Paklihawa is a significant archaeological site associated with ancient Buddhist civilization and historical events.",
     category: "Archaeological Site",
   },
+  {
+    province: "Lumbini Province",
+    district: "Rupandehi",
+    municipality: "Lumbini Sanskritik Municipality",
+    address: "Lumbini",
+    name: "Lumbini Garden",
+    description:
+      "Lumbini is the birthplace of Lord Buddha and a UNESCO World Heritage Site. The Lumbini Garden is surrounded by monasteries, the sacred Bodhi tree, an ancient bathing pond, and the famous Ashoka Pillar, making it a significant pilgrimage site for Buddhists and visitors worldwide.",
+    category: "Religious/Heritage",
+  },
+  {
+    province: "Lumbini Province",
+    district: "Rupandehi",
+    municipality: "Lumbini Sanskritik Municipality",
+    address: "Tilaurakot",
+    name: "Tilaurakot (Kapilvastu)",
+    description:
+      "Tilaurakot is believed to be the ancient capital of the Shakya Kingdom, where Prince Siddhartha Gautama (Lord Buddha) spent his early life. The archaeological ruins and excavated sites here provide a glimpse into the rich history and heritage of the area.",
+    category: "Archaeological Site",
+  },
+  {
+    province: "Lumbini Province",
+    district: "Rupandehi",
+    municipality: "Lumbini Sanskritik Municipality",
+    address: "Kudan",
+    name: "Kudan",
+    description:
+      "Kudan is an important archaeological site related to the Buddha's life and teachings. It is where Buddha met his father after attaining enlightenment. The place holds historical significance, marked by various stupas and ancient structures.",
+    category: "Historical/Religious",
+  },
+  {
+    province: "Lumbini Province",
+    district: "Rupandehi",
+    municipality: "Siddharthanagar Municipality",
+    address: "Sainamaina",
+    name: "Sainamaina Park",
+    description:
+      "Sainamaina Park is a beautiful natural park with lush greenery and serene surroundings, making it a perfect destination for nature lovers and families looking for a peaceful outing.",
+    category: "Recreational/Natural",
+  },
+  {
+    province: "Lumbini Province",
+    district: "Rupandehi",
+    municipality: "Devdaha Municipality",
+    address: "Buddhanagar",
+    name: "Buddhanagar",
+    description:
+      "Buddhanagar is known for its connection to the ancient Buddhist civilization. It offers insights into the rich cultural and historical heritage of the region and serves as a peaceful site for reflection and exploration.",
+    category: "Cultural/Heritage",
+  },
+  {
+    province: "Lumbini Province",
+    district: "Rupandehi",
+    municipality: "Siddharthanagar Municipality",
+    address: "Parroha",
+    name: "Parroha Lake",
+    description:
+      "Parroha Lake is a serene freshwater lake surrounded by greenery. It is a popular spot for picnics, bird watching, and enjoying the natural beauty of the region.",
+    category: "Natural/Recreational",
+  },
+  {
+    province: "Lumbini Province",
+    district: "Rupandehi",
+    municipality: "Suddhodhan Rural Municipality",
+    address: "Suddhodhan",
+    name: "Suddhodhan Park",
+    description:
+      "Suddhodhan Park is a place of historical significance, named after King Suddhodhan, the father of Lord Buddha. The park is known for its peaceful ambiance, making it a great spot for meditation and relaxation.",
+    category: "Historical/Recreational",
+  },
 ];
 
 export default exploreNepal;
