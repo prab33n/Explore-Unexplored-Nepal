@@ -1,5 +1,15 @@
 {
   "ExploreNepal": [
+
+    {
+      "province": "Gandaki",
+      "district": "Kaski",
+      "municipality": "Lekhnath",
+      "address": "Pokhara Pumdikot",
+      "name": "Pumdikot Shiva Statue",
+      "description": "Pumdikot has the second tallest statue of Shiva in Nepal. The statue itself is 51 feet tall. It sits on a white stupa that adds 57 feet in height, making the entire structure 108 feet high.",
+      "category": "Religious"
+    },
     {
       "province": "Gandaki",
       "district": "Syangja",
