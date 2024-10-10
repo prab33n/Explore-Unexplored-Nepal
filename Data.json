@@ -9,8 +9,15 @@
       "description": "It is a ancient temple with wide range of religious status and is considered as templ of very powerful goddess.",
       "category": "Religious"
     },
-
-
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Upper Galyang",
+      "name": "Galyang Multiple Campus",
+      "description": "It is an Educational institution affiliated to TU and offers diverse range of Bachelor's levels courses in affordable prices and quality environment.",
+      "category": "Educational"
+    },
     {
       "province": "Gandaki",
       "district": "Syangja",
