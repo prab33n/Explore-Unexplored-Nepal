@@ -64,8 +64,6 @@ const exploreNepal = [
         "description": "Birth Place of Lord Buddha",
         "category": "Religious"
       }
-      
-
-];
+      ];
 
 export default exploreNepal;
