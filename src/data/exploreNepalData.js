@@ -167,13 +167,12 @@ const exploreNepal = [
   {
     province: "Lumbini Province",
     district: "Rupandehi",
-    municipality: "Tilottama Municipality",
-    address: "Mangalapur",
-    name: "Kunjalapark",
+    municipality: "Butwal sub metropolitan city",
+    address: "Dhaba, Butwal",
+    name: "Peace Park",
     description:
-      "It is a park where people go for picnic as well as entertainment purpose.",
-   
-    category: "Entertainment",
+      "Peace Park is s a meditational place and well-known park of Butwal. It is located in Dhaba, Butwal in the Rupandehi district of Lumbini Province. We can simply called it a meditation park where people come to meditate and enjoy their holiday and to spend time with their loved ones but you are only allowed to go with your family, friends and relatives. ",
+    category: "Meditational park",
   }
 ];
 export default exploreNepal;
