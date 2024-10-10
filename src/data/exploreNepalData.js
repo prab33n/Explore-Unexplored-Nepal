@@ -102,7 +102,7 @@ const exploreNepal = [
     province: "Lumbini Province",
     district: "Rupandehi",
     municipality: "Tilottama Municipality",
-    address: "Sankarnagar",
+    address: "Shankarnagar",
     name: "Banbatika",
     description:
       "It is a famous park where many people go for picnic and refreshment.",
