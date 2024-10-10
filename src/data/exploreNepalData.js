@@ -98,6 +98,16 @@ const exploreNepal = [
       "Paklihawa is a significant archaeological site associated with ancient Buddhist civilization and historical events.",
     category: "Archaeological Site",
   },
+  {
+    province: "Lumbini Province",
+    district: "Rupandehi",
+    municipality: "Tilottama Municipality",
+    address: "Sankarnagar",
+    name: "Banbatika",
+    description:
+      "It is a famous park where many people go for picnic and refreshment.",
+    category: "Entertainment",
+  }
 ];
 
 export default exploreNepal;
