@@ -100,6 +100,16 @@ const exploreNepal = [
   },
   {
     province: "Lumbini Province",
+    district: "Palpa",
+    municipality: "Ribdikot Rural Municipality",
+    address: "Bhairavsthan",
+    name: "Bhairavsthan Mandir",
+    description:
+      "Bhairavsthan Temple is a Hindu temple of Bhairav established by king Mukunda Sena.",
+    category: "Religious",
+  },
+  {
+    province: "Lumbini Province",
     district: "Rupandehi",
     municipality: "Lumbini Sanskritik Municipality",
     address: "Lumbini",
