@@ -98,6 +98,16 @@ const exploreNepal = [
       "Paklihawa is a significant archaeological site associated with ancient Buddhist civilization and historical events.",
     category: "Archaeological Site",
   },
+  {
+    province: "Lumbini Province",
+    district: "Palpa",
+    municipality: "Ribdikot Rural Municipality",
+    address: "Bhairavsthan",
+    name: "Bhairavsthan Mandir",
+    description:
+      "Bhairavsthan Temple is a Hindu temple of Bhairav established by king Mukunda Sena.",
+    category: "Religious",
+  },
 ];
 
 export default exploreNepal;
