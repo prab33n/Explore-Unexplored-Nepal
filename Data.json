@@ -12,6 +12,15 @@
     {
       "province": "Gandaki",
       "district": "Syangja",
+      "municipality": "Galyang",
+      "address": "Karadikhola, chiuri",
+      "name": "Chiuri Bhir",
+      "description": "It is known to be as an adventerous place with beautiful view of Aadhikhola river below and has a suspension bridge to experience the thrill.",
+      "category": "Religious"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
       "municipality": "Galyang Municipality",
       "address": "Sirsekot",
       "name": "Akaladevi Temple",
@@ -34,7 +43,7 @@
       "address": "Galyang 03 Syangja",
       "name": "Aalam Devi Mandir",
       "description": "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
-      "category": "Religious"
+      "category": "Adventure"
     },
     {
     "province": "Gandaki",
