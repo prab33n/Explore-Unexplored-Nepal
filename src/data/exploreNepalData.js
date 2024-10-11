@@ -150,26 +150,6 @@ const exploreNepal = [
   {
     province: "Lumbini Province",
     district: "Rupandehi",
-    municipality: "Siddharthanagar Municipality",
-    address: "Manigram",
-    name: "Manimukunda Park (Phulbari)",
-    description:
-      "A beautiful park with historical significance, Manimukunda Park is known for its scenic beauty, ancient ruins, and as a leisure destination for visitors.",
-    category: "Recreational/Historical",
-  },
-  {
-    province: "Lumbini Province",
-    district: "Rupandehi",
-    municipality: "Siddharthanagar Municipality",
-    address: "Siddharthanagar",
-    name: "Paklihawa",
-    description:
-      "Paklihawa is a significant archaeological site associated with ancient Buddhist civilization and historical events.",
-    category: "Archaeological Site",
-  },
-  {
-    province: "Lumbini Province",
-    district: "Rupandehi",
     municipality: "Butwal sub metropolitan city",
     address: "Dhabaha, Butwal",
     name: "Peace Park",
@@ -210,17 +190,7 @@ const exploreNepal = [
   {
     province: "Lumbini Province",
     district: "Rupandehi",
-    municipality: "Lumbini Sanskritik Municipality",
-    address: "Kudan",
-    name: "Kudan",
-    description:
-      "Kudan is an important archaeological site related to the Buddha's life and teachings. It is where Buddha met his father after attaining enlightenment. The place holds historical significance, marked by various stupas and ancient structures.",
-    category: "Historical/Religious",
-  },
-  {
-    province: "Lumbini Province",
-    district: "Rupandehi",
-    municipality: "Siddharthanagar Municipality",
+    municipality: "Sainamaina Municipality",
     address: "Sainamaina",
     name: "Sainamaina Park",
     description:
@@ -230,17 +200,7 @@ const exploreNepal = [
   {
     province: "Lumbini Province",
     district: "Rupandehi",
-    municipality: "Devdaha Municipality",
-    address: "Buddhanagar",
-    name: "Buddhanagar",
-    description:
-      "Buddhanagar is known for its connection to the ancient Buddhist civilization. It offers insights into the rich cultural and historical heritage of the region and serves as a peaceful site for reflection and exploration.",
-    category: "Cultural/Heritage",
-  },
-  {
-    province: "Lumbini Province",
-    district: "Rupandehi",
-    municipality: "Siddharthanagar Municipality",
+    municipality: "Sainamaina Municipality",
     address: "Parroha",
     name: "Parroha Lake",
     description:
