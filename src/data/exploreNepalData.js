@@ -1,71 +1,74 @@
 const exploreNepal = [
-  
-      {
-        "province": "Gandaki",
-        "district": "Syangja",
-        "municipality": "Galyang Municipality",
-        "address": "Sirsekot",
-        "name": "Akaladevi Temple",
-        "description": "It is a ancient temple with wide range of religious status and is considered as templ of very powerful goddess.",
-        "category": "Religious Temple"
-      },
-  
-  
-      {
-        "province": "Gandaki",
-        "district": "Syangja",
-        "municipality": "Galyang Municipality",
-        "address": "Galyang 03 Syangja",
-        "name": "Aalam Devi Mandir",
-        "description": "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
-        "category": "Religious"
-      },
-      {
-      "province": "Gandaki",
-      "district": "Syangja",
-      "municipality": "Galyang Municipality",
-      "address": "Galyang 07 Syangja",
-      "name": "Siddha Gufa",
-      "description": "It is a ancient cave consisting various ancient structures and statues.",
-      "category": "Religious cave"
-    },
-    {
-      "province": "Gandaki",
-      "district": "Syangja",
-      "municipality": "Waling Municipality",
-      "address": "sorek",
-      "name": "sorek maidan",
-      "description": "It is hill providing beautiful scenario with clouds and feels like a way to heaven. Also often professional paragliders also do paraglidings from there",
-      "category": "Religious Temple"
-    },
-      {
-        "province": "Gandaki",
-        "district": "Syangja",
-        "municipality": "Waling Municipality",
-        "address": "Waling",
-        "name": "Garausur Mandir",
-        "description": "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
-        "category": "Religious"
-      },
-      {
-        "province": "Lumbini",
-        "district": "Palpa",
-        "municipality": "Tinau Rural Municipality",
-        "address": "Lumbini",
-        "name": "Siddhababa",
-        "description": "Hindu religious temple",
-        "category": "Religious"
-      },
-      {
-        "province": "Lumbini",
-        "district": "Rupandehi",
-        "municipality": "Lumbini Sasnkritik Rural Municipality",
-        "address": "Lumbini",
-        "name": "Lumbini",
-        "description": "Birth Place of Lord Buddha",
-        "category": "Religious"
-      },
-      {
+  {
+    province: "Gandaki",
+    district: "Syangja",
+    municipality: "Galyang Municipality",
+    address: "Sirsekot",
+    name: "Akaladevi Temple",
+    description:
+      "It is a ancient temple with wide range of religious status and is considered as templ of very powerful goddess.",
+    category: "Religious Temple",
+  },
+
+  {
+    province: "Gandaki",
+    district: "Syangja",
+    municipality: "Galyang Municipality",
+    address: "Galyang 03 Syangja",
+    name: "Aalam Devi Mandir",
+    description:
+      "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
+    category: "Religious",
+  },
+  {
+    province: "Gandaki",
+    district: "Syangja",
+    municipality: "Galyang Municipality",
+    address: "Galyang 07 Syangja",
+    name: "Siddha Gufa",
+    description:
+      "It is a ancient cave consisting various ancient structures and statues.",
+    category: "Religious cave",
+  },
+  {
+    province: "Gandaki",
+    district: "Syangja",
+    municipality: "Waling Municipality",
+    address: "sorek",
+    name: "sorek maidan",
+    description:
+      "It is hill providing beautiful scenario with clouds and feels like a way to heaven. Also often professional paragliders also do paraglidings from there",
+    category: "Religious Temple",
+  },
+  {
+    province: "Gandaki",
+    district: "Syangja",
+    municipality: "Waling Municipality",
+    address: "Waling",
+    name: "Garausur Mandir",
+    description:
+      "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
+    category: "Religious",
+  },
+  {
+    province: "Lumbini",
+    district: "Palpa",
+    municipality: "Tinau Rural Municipality",
+    address: "Lumbini",
+    name: "Siddhababa",
+    description: "Hindu religious temple",
+    category: "Religious",
+  },
+  {
+    province: "Lumbini",
+    district: "Rupandehi",
+    municipality: "Lumbini Sasnkritik Rural Municipality",
+    address: "Lumbini",
+    name: "Lumbini",
+    description: "Birth Place of Lord Buddha",
+    category: "Religious",
+  },
+  {
     province: "Gandaki",
     district: "Syangja",
     municipality: "Galyang Municipality",
@@ -136,12 +139,12 @@ const exploreNepal = [
   },
   {
     province: "Lumbini Province",
-    district: "Rupandehi",
-    municipality: "Siddharthanagar Municipality",
-    address: "Rupandehi",
-    name: "Ramagrama Stupa",
+    district: "Nawalparasi",
+    municipality: "Ramgram Municipality",
+    address: "Ramgram",
+    name: "Ramgram Stupa",
     description:
-      "Ramagrama Stupa is an ancient Buddhist pilgrimage site. It is believed to be one of the eight original stupas containing relics of Lord Buddha, untouched and in its original form.",
+      "Ramgram Stupa is an ancient Buddhist pilgrimage site. It is believed to be one of the eight original stupas containing relics of Lord Buddha, untouched and in its original form.",
     category: "Religious/Heritage",
   },
   {
@@ -168,7 +171,7 @@ const exploreNepal = [
     province: "Lumbini Province",
     district: "Rupandehi",
     municipality: "Butwal sub metropolitan city",
-    address: "Dhaba, Butwal",
+    address: "Dhabaha, Butwal",
     name: "Peace Park",
     description:
       "Peace Park is s a meditational place and well-known park of Butwal. It is located in Dhaba, Butwal in the Rupandehi district of Lumbini Province. We can simply called it a meditation park where people come to meditate and enjoy their holiday and to spend time with their loved ones but you are only allowed to go with your family, friends and relatives. ",
@@ -196,10 +199,10 @@ const exploreNepal = [
   },
   {
     province: "Lumbini Province",
-    district: "Rupandehi",
-    municipality: "Lumbini Sanskritik Municipality",
+    district: "Kapilvastu",
+    municipality: "Kapilvastu Municipality",
     address: "Tilaurakot",
-    name: "Tilaurakot (Kapilvastu)",
+    name: "Tilaurakot ",
     description:
       "Tilaurakot is believed to be the ancient capital of the Shakya Kingdom, where Prince Siddhartha Gautama (Lord Buddha) spent his early life. The archaeological ruins and excavated sites here provide a glimpse into the rich history and heritage of the area.",
     category: "Archaeological Site",
