@@ -98,6 +98,24 @@
       "name": "Lumbini",
       "description": "Birth Place of Lord Buddha",
       "category": "Religious"
+    },
+    {
+      "province": "Bagmati",
+      "district": "Kathmandu",
+      "municipality": "Kathmandu Metropolitan City",
+      "address": "Gaushala",
+      "name": "Pashupatinath Temple",
+      "description": "It is devoted to the Hindu god Shiva in his form as Pashupati, protector of animals.",
+      "category": "Religious"
+    },
+    {
+      "province": "Bagmati",
+      "district": "Bhaktapur",
+      "municipality": "Lalitpur Metropolitan City",
+      "address": "Changunarayan",
+      "name": "Changu Narayan Temple",
+      "description": "It is the oldest temple in Nepal dating back to the 5th century.",
+      "category": "Religious"
     }
   
   ]
