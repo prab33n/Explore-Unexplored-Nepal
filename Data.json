@@ -6,6 +6,7 @@
       "municipality": "Kathmandu Metropolitan City",
       "address": "Gaushala",
       "name": "Pashupatinath Temple",
+      "image" : "/Images/pasupatinath.jpg",
       "description": "It is devoted to the Hindu god Shiva in his form as Pashupati, protector of animals.",
       "category": "Religious"
     },
@@ -15,6 +16,7 @@
       "municipality": "Lalitpur Metropolitan City",
       "address": "Patan",
       "name": "Krishna Mandir",
+      "image" : "/Images/krishnamandir-patan.jpg",
       "description": "It was a cultural stronghold of the Malla kings of Kathmandu valley",
       "category": "Religious"
     },
@@ -24,6 +26,7 @@
       "municipality": "Bhaktapur Metropolitan City",
       "address": "Changunarayan",
       "name": "Changu Narayan Temple",
+      "image" : "/Images/changunarayan.jpg",
       "description": "It is the oldest temple in Nepal dating back to the 5th century.",
       "category": "Religious"
     },
@@ -33,6 +36,7 @@
       "municipality": "Lekhnath",
       "address": "Pokhara Pumdikot",
       "name": "Pumdikot Shiva Statue",
+      "image" : "/Images/pumdikot.jpg",
       "description": "Pumdikot has the second tallest statue of Shiva in Nepal. The statue itself is 51 feet tall. It sits on a white stupa that adds 57 feet in height, making the entire structure 108 feet high.",
       "category": "Religious"
     },
@@ -42,6 +46,7 @@
       "municipality": "Galyang",
       "address": "Karadikhola, chiuri",
       "name": "Chiuri Bhir",
+      "image" : "/Images/chiuribhir.png",
       "description": "It is known to be as an adventerous place with beautiful view of Aadhikhola river below and has a suspension bridge to experience the thrill.",
       "category": "Religious"
     },
@@ -51,7 +56,7 @@
       "municipality": "Galyang Municipality",
       "address": "Sirsekot",
       "name": "Akaladevi Temple",
-      "image" : "/Images/akaladevi.jpg",
+      "image" : "/Images/akaladevi.png",
       "description": "It is a ancient temple with wide range of religious status and is considered as templ of very powerful goddess.",
       "category": "Religious"
     },
