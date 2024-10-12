@@ -1,6 +1,33 @@
 {
   "ExploreNepal": [ 
     {
+      "province": "Bagmati",
+      "district": "Kathmandu",
+      "municipality": "Kathmandu Metropolitan City",
+      "address": "Gaushala",
+      "name": "Pashupatinath Temple",
+      "description": "It is devoted to the Hindu god Shiva in his form as Pashupati, protector of animals.",
+      "category": "Religious"
+    },
+    {
+      "province": "Bagmati",
+      "district": "Lalitpur",
+      "municipality": "Lalitpur Metropolitan City",
+      "address": "Patan",
+      "name": "Krishna Mandir",
+      "description": "It was a cultural stronghold of the Malla kings of Kathmandu valley",
+      "category": "Religious"
+    },
+    {
+      "province": "Bagmati",
+      "district": "Bhaktapur",
+      "municipality": "Bhaktapur Metropolitan City",
+      "address": "Changunarayan",
+      "name": "Changu Narayan Temple",
+      "description": "It is the oldest temple in Nepal dating back to the 5th century.",
+      "category": "Religious"
+    },
+    {
       "province": "Gandaki",
       "district": "Kaski",
       "municipality": "Lekhnath",
@@ -24,6 +51,7 @@
       "municipality": "Galyang Municipality",
       "address": "Sirsekot",
       "name": "Akaladevi Temple",
+      "image" : "/Images/akaladevi.jpg",
       "description": "It is a ancient temple with wide range of religious status and is considered as templ of very powerful goddess.",
       "category": "Religious"
     },
@@ -42,6 +70,7 @@
       "municipality": "Galyang Municipality",
       "address": "Galyang 03 Syangja",
       "name": "Aalam Devi Mandir",
+      "image" : "/Images/aalamdevi.jpg",
       "description": "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
       "category": "Adventure"
     },
@@ -107,34 +136,6 @@
       "name": "Lumbini",
       "description": "Birth Place of Lord Buddha",
       "category": "Religious"
-    },
-    {
-      "province": "Bagmati",
-      "district": "Kathmandu",
-      "municipality": "Kathmandu Metropolitan City",
-      "address": "Gaushala",
-      "name": "Pashupatinath Temple",
-      "description": "It is devoted to the Hindu god Shiva in his form as Pashupati, protector of animals.",
-      "category": "Religious"
-    },
-    {
-      "province": "Bagmati",
-      "district": "Lalitpur",
-      "municipality": "Lalitpur Metropolitan City",
-      "address": "Patan",
-      "name": "Krishna Mandir",
-      "description": "It was a cultural stronghold of the Malla kings of Kathmandu valley",
-      "category": "Religious"
-    },
-    {
-      "province": "Bagmati",
-      "district": "Bhaktapur",
-      "municipality": "Bhaktapur Metropolitan City",
-      "address": "Changunarayan",
-      "name": "Changu Narayan Temple",
-      "description": "It is the oldest temple in Nepal dating back to the 5th century.",
-      "category": "Religious"
     }
-  
   ]
 }
