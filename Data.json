@@ -85,6 +85,7 @@
     "municipality": "Galyang Municipality",
     "address": "Galyang 07 Syangja",
     "name": "Siddha Gufa",
+    "image" : "/Images/siddhagufa.jpg",
     "description": "It is a ancient cave consisting various ancient structures and statues.",
     "category": "Religious"
   },
@@ -94,6 +95,7 @@
     "municipality": "Waling Municipality",
     "address": "Waling",
     "name": "Chhaya Chhetra Temple (Chhangchhangdi)",
+    "image" : "/Images/Chhangchhangdi.jpg",
     "description": "This is an ancient temple containing various religious aspects. This temple is very popular as lord Shiva is worshiped out there.",
     "category": "Religious"
   },
@@ -103,6 +105,7 @@
     "municipality": "Putalibazar Municipality",
     "address": "Syangja",
     "name": "Bhalupahad",
+    "image" : "/Images/bhalupahad.jpg",
     "description": "Bhalu Pahad, located in Syangja district, Nepal, is a charming hill station known for its scenic beauty and serene environment. Easily accessible via the Siddhartha Highway, it's a popular spot for picnics and sightseeing.",
     "category": "Tourism"
   },
@@ -112,6 +115,7 @@
     "municipality": "Waling Municipality",
     "address": "sorek",
     "name": "sorek maidan",
+    "image" : "/Images/sorek.jpg",
     "description": "It is hill providing beautiful scenario with clouds and feels like a way to heaven. Also often professional paragliders also do paraglidings from there",
     "category": "Adventure"
   },
@@ -121,6 +125,7 @@
       "municipality": "Waling Municipality",
       "address": "Waling",
       "name": "Garausur Mandir",
+      "image" : "/Images/garausur.jpg",
       "description": "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
       "category": "Religious"
     },
@@ -130,6 +135,7 @@
       "municipality": "Tansen Municipality",
       "address": "Tansen",
       "name": "Rani Mahal",
+      "image" : "/Images/ranimahal.jpg",
       "description": "Historical palace for a queen made by a king.",
       "category": "Religious"
     },
@@ -139,6 +145,7 @@
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
       "name": "Lumbini",
+      "image" : "/Images/lumbini.png",
       "description": "Birth Place of Lord Buddha",
       "category": "Religious"
     }
