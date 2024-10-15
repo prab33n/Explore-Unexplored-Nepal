@@ -1,6 +1,16 @@
 {
   "ExploreNepal": [ 
     {
+      "province": "Koshi",
+      "district": "Dharan",
+      "municipality": "dharan sub metropolitan city",
+      "address": "Bijayapur",
+      "name": "BudhaSubba Temple",
+      "image" : "/Images/budhasubba.jpg",
+      "description": " Budhasubba Mandir is uniquely notable for its blend of local folklore and the ritual of animal sacrifices, highlighting the community's spiritual and cultural identity",
+      "category": "Religious"
+    },
+    {
       "province": "Bagmati",
       "district": "Kathmandu",
       "municipality": "Kathmandu Metropolitan City",
