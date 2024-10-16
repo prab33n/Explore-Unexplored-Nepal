@@ -3,12 +3,22 @@
     {
       "province": "Koshi",
       "district": "Dharan",
-      "municipality": "dharan sub metropolitan city",
+      "municipality": "Dharan sub metropolitan city",
       "address": "Bijayapur",
       "name": "BudhaSubba Temple",
       "image" : "/Images/budhasubba.jpg",
       "description": " Budhasubba Mandir is uniquely notable for its blend of local folklore and the ritual of animal sacrifices, highlighting the community's spiritual and cultural identity",
       "category": "Religious"
+    },
+    {
+      "province": "Koshi",
+      "district": "Ilam",
+      "municipality": "Suryodaya Municipality ",
+      "address": "Bijayapur",
+      "name": "Kanyam",
+      "image" : "/Images/kanyam.jpg",
+      "description": " Kanyam is a picturesque tea garden village in eastern Nepal, renowned for its lush landscapes and serene atmosphere",
+      "category": "Tourism"
     },
     {
       "province": "Bagmati",
