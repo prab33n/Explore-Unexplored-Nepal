@@ -31,6 +31,16 @@
       "category": "Religious"
     },
     {
+      "province": "Madesh",
+      "district": "Dhanusa",
+      "municipality": "Janakpur sub-metropolitan city ",
+      "address": " Janakpur",
+      "name": "Janakpurdham",
+      "image" : "/Images/janakpur.jpg",
+      "description": " It is is renowned as the birthplace of Sita from the Ramayana and a center of Mithila culture and art.",
+      "category": "Religious"
+    },
+    {
       "province": "Bagmati",
       "district": "Kathmandu",
       "municipality": "Kathmandu Metropolitan City",
