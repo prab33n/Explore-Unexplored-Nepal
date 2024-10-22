@@ -21,6 +21,16 @@
       "category": "Tourism"
     },
     {
+      "province": "Koshi",
+      "district": "Khotang",
+      "municipality": "Halesi Tuwachung Municipality ",
+      "address": " Mahadevasthan,",
+      "name": "Halesi Mahadev",
+      "image" : "/Images/halesimahadev.jpg",
+      "description": " It is cave and temple which has  venerated pilgrimage site for Hindus, Buddhists and Kirat.",
+      "category": "Religious"
+    },
+    {
       "province": "Bagmati",
       "district": "Kathmandu",
       "municipality": "Kathmandu Metropolitan City",
