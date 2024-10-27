@@ -188,6 +188,16 @@
       "image" : "/Images/lumbini.png",
       "description": "Birth Place of Lord Buddha",
       "category": "Religious"
+    },
+    {
+      "province": "Karnali",
+      "district": "Mugu",
+      "municipality": "Rara Rural Municipality",
+      "address": "Rara",
+      "name": "Rara Lake",
+      "image" : "/Images/rara.jpg",
+      "description": "Rara lake is  the largest fresh water lake in the Nepalese Himalayas",
+      "category": "Tourism"
     }
   ]
 }
