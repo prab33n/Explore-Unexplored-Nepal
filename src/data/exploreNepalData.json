@@ -202,6 +202,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Devdaha Municipality",
+      "address": "Devdaha, near the ancient Devdaha Palace",
+      "name": "Devdaha Palace Ruins",
+      "description": "The remnants of an ancient palace believed to be the residence of Queen Mayadevi. The site provides insight into the historical significance of the area.",
+      "category": "Historical"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
       "name": "Lumbini",
