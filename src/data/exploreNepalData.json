@@ -202,6 +202,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Devdaha Municipality",
+      "address": "Devdaha, Rupandehi, near Devdaha Market",
+      "name": "Bishwokarma Temple",
+      "description": "This temple is dedicated to Bishwokarma, the deity of craftsmanship and artisans. Surrounded by lush fields and local villages, it serves as a community gathering place for festivals and rituals.",
+      "category": "Religious"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
       "name": "Lumbini",
