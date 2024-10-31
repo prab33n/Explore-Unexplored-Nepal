@@ -112,6 +112,16 @@
     },
     {
       "province": "Gandaki",
+      "district": "Tanahun",
+      "municipality": "Bandipur Municipality",
+      "address": "Bandipur",
+      "name": "Bandipur",
+      "image": "/Images/bandipur.jpg",
+      "description": "Bandipur is a picturesque hilltop town known for its preserved cultural heritage, traditional Newari architecture, and stunning views of the Himalayas.",
+      "category": "Cultural Tourism"
+    },
+    {
+      "province": "Gandaki",
       "district": "Baglung",
       "municipality": "Dhorpatan Municipality",
       "address": "Dhorpatan",
