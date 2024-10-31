@@ -129,7 +129,8 @@
       "image": "/Images/patan.jpg",
       "description": "Patan Durbar Square is a UNESCO World Heritage Site known for its stunning architecture, ancient temples, and rich history.",
       "category": "Cultural Heritage"
-    },    
+    },  
+    {  
       "district": "Bhaktapur",
       "municipality": "Nagarkot Municipality",
       "address": "Nagarkot",
@@ -344,6 +345,16 @@
       "description": "Historical palace for a queen made by a king.",
       "category": "Religious"
     },
+    {
+      "province": "Lumbini",
+      "district": "Palpa",
+      "municipality": "Tansen Municipality",
+      "address": "Tansen",
+      "name": "Tansen",
+      "image": "/Images/tansen.jpg",
+      "description": "Tansen is a historical hill town known for its rich culture, beautiful views of the Himalayas, and traditional craftsmanship, especially in weaving and metalwork.",
+      "category": "Cultural Tourism"
+    },    
     {
       "province": "Lumbini",
       "district": "Rupandehi",
