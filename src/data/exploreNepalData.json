@@ -133,6 +133,15 @@
       "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Galyang Municipality",
+      "address": "Upper Galyang",
+      "name": "Adarsha Higher Secondary School ",
+      "description": "It is an School with great educational quality",
+      "category": "Educational"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
       "address": "Galyang 03 Syangja",
       "name": "Aalam Devi Mandir",
       "image" : "/Images/aalamdevi.jpg",
