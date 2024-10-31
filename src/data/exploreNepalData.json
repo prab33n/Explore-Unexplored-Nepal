@@ -183,6 +183,15 @@
       "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Galyang Municipality",
+      "address": "Upper Galyang",
+      "name": "Chirag Higher Secondary School",
+      "description": "It is an Educational institution with highest educational recognitions and quality",
+      "category": "Educational"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
       "address": "Galyang 03 Syangja",
       "name": "BhuPu Sainik Secondary School",
       "description": "It is an Educational institution with quality environment.",
