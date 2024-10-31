@@ -210,6 +210,15 @@
       "category": "Religious"
     },
     {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Kharel Danda",
+      "name": "Kharel Danda Hilltop",
+      "description": "A quiet hilltop perfect for sunset views and peaceful solitude.",
+      "category": "Scenic"
+    },
+    {
       "province": "Karnali",
       "district": "Mugu",
       "municipality": "Rara Rural Municipality",
