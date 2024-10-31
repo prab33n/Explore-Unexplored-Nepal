@@ -347,6 +347,16 @@
     },
     {
       "province": "Lumbini",
+      "district": "Palpa",
+      "municipality": "Tansen Municipality",
+      "address": "Tansen",
+      "name": "Tansen",
+      "image": "/Images/tansen.jpg",
+      "description": "Tansen is a historical hill town known for its rich culture, beautiful views of the Himalayas, and traditional craftsmanship, especially in weaving and metalwork.",
+      "category": "Cultural Tourism"
+    },    
+    {
+      "province": "Lumbini",
       "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
