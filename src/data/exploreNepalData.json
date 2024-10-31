@@ -585,6 +585,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Lumbini Sanskritik Municipality",
+      "address": "Near Lumbini, Rupandehi",
+      "name": "Lumbini Museum",
+      "description": "A small yet informative museum displaying artifacts and historical items related to Buddha’s life and the history of Lumbini.",
+      "category": "Cultural"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
