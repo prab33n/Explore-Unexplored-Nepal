@@ -149,7 +149,17 @@
       "image": "/Images/panch_pokhari.jpg",
       "description": "Panch Pokhari is a sacred site consisting of five lakes, popular among pilgrims and trekkers for its stunning scenery and cultural significance.",
       "category": "Pilgrimage"
-    },    
+    }, 
+    {
+      "province": "Bagmati",
+      "district": "Rasuwa",
+      "municipality": "Langtang Rural Municipality",
+      "address": "Langtang Valley",
+      "name": "Langtang Valley",
+      "image": "/Images/langtang.jpg",
+      "description": "Langtang Valley is a popular trekking destination known for its stunning landscapes, diverse wildlife, and traditional Tamang culture.",
+      "category": "Trekking"
+    },       
     {
       "province": "Gandaki",
       "district": "Tanahun",
