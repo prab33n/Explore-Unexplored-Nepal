@@ -594,6 +594,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Siddhartha Highway, Siddharthanagar, Rupandehi",
+      "name": "Shree Amar Singh Thapa Memorial Park",
+      "description": "A well-maintained park dedicated to the local hero Amar Singh Thapa, featuring statues, walking paths, and gardens, making it a great place for family outings.",
+      "category": "Cultural"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
