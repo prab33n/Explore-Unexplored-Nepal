@@ -172,6 +172,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Galyang",
+    "name": "Bhirkot Fort",
+    "description": "An ancient fort that once served as a military stronghold, now a historical site with scenic views.",
+    "category": "Historical"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Waling Municipality",
     "address": "sorek",
     "name": "sorek maidan",
