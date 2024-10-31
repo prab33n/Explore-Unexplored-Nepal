@@ -297,6 +297,14 @@
     },
     {
       "province": "Sudurpashchim",
+      "district": "Achham",
+      "municipality": "Badimalika Municipality",
+      "address": "Badimalika",
+      "name": "Badimalika Temple",
+      "image": "/Images/badimalika.jpg",
+      "description": "Badimalika is a significant religious site known for the Badimalika Temple, located at an altitude of about 4,200 meters (13,780 feet), attracting numerous pilgrims and trekkers.",
+    },
+    {
       "district": "Dolpa",
       "municipality": "Shey Phoksundo Rural Municipality",
       "address": "Phoksundo National Park",
