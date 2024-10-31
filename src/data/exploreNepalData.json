@@ -51,6 +51,16 @@
       "category": "Religious"
     },
     {
+      "province": "Koshi",
+      "district": "Jhapa",
+      "municipality": "Kankai Municipality",
+      "address": "Kankai",
+      "name": "Kankai",
+      "image": "/Images/kankai.jpg",
+      "description": "Kankai is known for the Kankai Mai Temple, a significant pilgrimage site, and its surrounding natural beauty, attracting both pilgrims and tourists.",
+      "category": "Pilgrimage"
+    },    
+    {
       "province": "Madesh",
       "district": "Dhanusa",
       "municipality": "Janakpur sub-metropolitan city ",
@@ -179,7 +189,17 @@
       "image": "/Images/ghandruk.jpg",
       "description": "Ghandruk is a charming Gurung village that offers stunning views of the Annapurna range and serves as a gateway for treks in the Annapurna region.",
       "category": "Cultural Tourism"
-    },           
+    }, 
+    {
+      "province": "Gandaki",
+      "district": "Mustang",
+      "municipality": "Thasang Rural Municipality",
+      "address": "Muktinath",
+      "name": "Muktinath Temple",
+      "image": "/Images/muktinath.jpg",
+      "description": "Muktinath is a sacred site for both Hindus and Buddhists, known for its temple and the 108 water spouts, set against a stunning mountain backdrop.",
+      "category": "Pilgrimage"
+    },              
     {
       "province": "Gandaki",
       "district": "Tanahun",
@@ -412,6 +432,16 @@
       "description": "A hidden cave with unique rock formations, rumored to have historical significance.",
       "category": "Adventure"
     },
+    {
+      "province": "Lumbini",
+      "district": "Gulmi",
+      "municipality": "Resunga Municipality",
+      "address": "Resunga Hill, Gulmi",
+      "name": "Resunga",
+      "image": "/Images/resunga.jpg",
+      "description": "Resunga is a prominent hill located in Gulmi, known for its panoramic views, lush forests, and the historical Resunga Temple. It is a popular destination for trekking and offers cultural experiences related to the local communities.",
+      "category": "Tourism"
+    },    
     {
       "province": "Lumbini",
       "district": "Palpa",
