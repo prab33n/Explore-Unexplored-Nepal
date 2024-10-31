@@ -184,7 +184,15 @@
       "district": "Syangja",
       "municipality": "Galyang Municipality",
       "address": "Upper Galyang",
+      "name": "Adarsha Higher Secondary School ",
+      "description": "It is an School with great educational quality",
+      "category": "Educational"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
       "name": "Chirag Higher Secondary School",
+      "address": "Upper Galyang"
       "description": "It is an Educational institution with highest educational recognitions and quality",
       "category": "Educational"
     },
