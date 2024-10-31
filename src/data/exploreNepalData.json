@@ -131,6 +131,7 @@
       "category": "Cultural Heritage"
     },  
     {  
+      "province": "Bagmati",
       "district": "Bhaktapur",
       "municipality": "Nagarkot Municipality",
       "address": "Nagarkot",
@@ -139,6 +140,16 @@
       "description": "Nagarkot is a popular hill station near Kathmandu, known for its stunning sunrise views over the Himalayas and trekking opportunities.",
       "category": "Tourism"
     },
+    {
+      "province": "Bagmati",
+      "district": "Sindhupalchok",
+      "municipality": "Panch Pokhari Thangpal Rural Municipality",
+      "address": "Panch Pokhari",
+      "name": "Panch Pokhari",
+      "image": "/Images/panch_pokhari.jpg",
+      "description": "Panch Pokhari is a sacred site consisting of five lakes, popular among pilgrims and trekkers for its stunning scenery and cultural significance.",
+      "category": "Pilgrimage"
+    },    
     {
       "province": "Gandaki",
       "district": "Tanahun",
