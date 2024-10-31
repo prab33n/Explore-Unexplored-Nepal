@@ -149,7 +149,17 @@
       "image": "/Images/kakani.jpg",
       "description": "Kakani is a serene hill station near Kathmandu, known for its panoramic views of the Himalayas and strawberry farming.",
       "category": "Tourism"
-    },        
+    },   
+    {
+      "province": "Bagmati Province",
+      "district": "Makwanpur",
+      "municipality": "Makwanpur Gadhi",
+      "address": "Chitlang, Makwanpur District",
+      "name": "Chitlang",
+      "image": "/Images/chitlang.jpg",
+      "description": "Chitlang is a charming village in the Makwanpur District, known for its rich cultural heritage, stunning landscapes, and hiking opportunities. It's a popular destination for both local and international tourists.",
+      "category": "Tourism"
+    },         
     {
       "province": "Bagmati",
       "district": "Kathmandu",
