@@ -202,6 +202,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Siddhartha Highway, Siddharthanagar, Rupandehi",
+      "name": "Tharu Cultural Center",
+      "description": "A center dedicated to preserving and promoting Tharu culture, featuring exhibitions, performances, and traditional crafts.",
+      "category": "Cultural"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
