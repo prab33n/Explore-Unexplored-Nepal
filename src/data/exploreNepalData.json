@@ -134,6 +134,15 @@
       "district": "Syangja",
       "municipality": "Galyang Municipality",
       "address": "Galyang 03 Syangja",
+      "name": "BhuPu Sainik Secondary School",
+      "description": "It is an Educational institution with quality environment.",
+      "category": "Educational"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Galyang 03 Syangja",
       "name": "Aalam Devi Mandir",
       "image" : "/Images/aalamdevi.jpg",
       "description": "It is a religious place located in Galyang Syangja consisting ancient ritual practice.",
