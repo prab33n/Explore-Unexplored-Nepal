@@ -152,6 +152,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Sirsekot",
+    "name": "Sirsekot Bagh Durbar",
+    "description": "A traditional palace with architectural significance, offering insight into local heritage.",
+    "category": "Historical"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Waling Municipality",
     "address": "Waling",
     "name": "Chhaya Chhetra Temple (Chhangchhangdi)",
