@@ -12,6 +12,16 @@
     },
     {
       "province": "Koshi",
+      "district": "Taplejung",
+      "municipality": "Pathivara Rural Municipality",
+      "address": "Pathivara",
+      "name": "Pathivara Temple",
+      "image": "/Images/pathivara.jpg",
+      "description": "Pathivara Temple is a revered Hindu temple dedicated to the goddess Pathivara, located at an altitude of 3,794 meters (12,448 feet), offering stunning views of the surrounding mountains.",
+      "category": "Tourism"
+    },    
+    {
+      "province": "Koshi",
       "district": "Ilam",
       "municipality": "Suryodaya Municipality ",
       "address": "Bijayapur",
@@ -40,6 +50,16 @@
       "description": " It is is renowned as the birthplace of Sita from the Ramayana and a center of Mithila culture and art.",
       "category": "Religious"
     },
+    {
+      "province": " Madesh Province ",
+      "district": "Bara",
+      "municipality": "Gadhimai Municipality",
+      "address": "Gadhimai",
+      "name": "Gadhimai Temple",
+      "image": "/Images/gadhimai.jpg",
+      "description": "Gadhimai Temple is a famous Hindu temple dedicated to the goddess Gadhimai, known for its large animal sacrifice festival held every five years, attracting thousands of devotees.",
+      "category": "Tourism"
+    },    
     {
       "province": "Bagmati",
       "district": "Rasuwa",
@@ -90,6 +110,14 @@
       "description": "Patan Durbar Square is a UNESCO World Heritage Site known for its stunning architecture, ancient temples, and rich history.",
       "category": "Cultural Heritage"
     },    
+      "district": "Bhaktapur",
+      "municipality": "Nagarkot Municipality",
+      "address": "Nagarkot",
+      "name": "Nagarkot",
+      "image": "/Images/nagarkot.jpg",
+      "description": "Nagarkot is a popular hill station near Kathmandu, known for its stunning sunrise views over the Himalayas and trekking opportunities.",
+      "category": "Tourism"
+    },
     {
       "province": "Gandaki",
       "district": "Tanahun",
