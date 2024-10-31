@@ -202,6 +202,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Gaddhi Danda, Siddharthanagar, Rupandehi",
+      "name": "Gaddhi Danda",
+      "description": "A hill offering panoramic views of the surrounding landscape. It's a perfect spot for hiking, picnics, and watching the sunset.",
+      "category": "Scenic"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
