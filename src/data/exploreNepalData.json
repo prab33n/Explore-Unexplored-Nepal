@@ -102,6 +102,16 @@
     },
     {
       "province": "Gandaki",
+      "district": "Kaski",
+      "municipality": "Pokhara Metropolitan City",
+      "address": "Pokhara",
+      "name": "Phewa Lake",
+      "image": "/Images/phewa.jpg",
+      "description": "Phewa Lake is a stunning freshwater lake known for its scenic beauty and the reflection of the Annapurna mountain range, popular for boating and fishing.",
+      "category": "Tourism"
+    },    
+    {
+      "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Galyang",
       "address": "Karadikhola, chiuri",
