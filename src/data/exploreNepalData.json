@@ -288,6 +288,15 @@
     },
     {
       "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Near Kaligandaki River",
+      "name": "Kaligandaki River Bank",
+      "description": "A beautiful riverside area perfect for fishing, relaxing, and enjoying the natural beauty.",
+      "category": "Natural"
+    },
+    {
+      "province": "Gandaki",
       "district": "Baglung",
       "municipality": "Dhorpatan Municipality",
       "address": "Dhorpatan",
