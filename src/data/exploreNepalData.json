@@ -162,6 +162,16 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Galyang 03 Syangja",
+    "name": "Arpan Restaurant and Lodge",
+    "image" : "N/A",
+    "description": "It is a best place around the area famous for fried noodles (Chowmein), must try other stuffs too",
+    "category": "Food"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Putalibazar Municipality",
     "address": "Syangja",
     "name": "Bhalupahad",
