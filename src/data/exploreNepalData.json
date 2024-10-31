@@ -202,6 +202,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Siddhartha Highway, Siddharthanagar, Rupandehi",
+      "name": "Khanchan Dham",
+      "description": "A tranquil spiritual site featuring ancient shrines, meditation areas, and beautiful gardens. It is known for its peaceful environment and historical significance, attracting those seeking spiritual solace.",
+      "category": "Religious"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
       "name": "Lumbini",
