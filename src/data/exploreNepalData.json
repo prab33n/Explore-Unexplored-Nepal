@@ -113,6 +113,16 @@
     {
       "province": "Gandaki",
       "district": "Syangja",
+      "municipality": "Galyang",
+      "address": "Galyang 03, Upper Galyang",
+      "name": "Mangal Momo House",
+      "image" : " ",
+      "description": "If you are momo lover then you must go visit.",
+      "category": "Food"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
       "municipality": "Galyang Municipality",
       "address": "Sirsekot",
       "name": "Akaladevi Temple",
