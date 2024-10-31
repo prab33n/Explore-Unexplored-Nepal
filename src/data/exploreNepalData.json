@@ -613,6 +613,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Sidhi Chowk, Siddharthanagar, Rupandehi",
+      "name": "Chhath Ghat",
+      "description": "A serene riverside ghat popular among locals during the Chhath festival, offering a peaceful environment for rituals and relaxation.",
+      "category": "Cultural"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
