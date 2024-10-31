@@ -203,6 +203,15 @@
       "province": "Lumbini",
       "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
+      "address": "Near Devdaha, Rupandehi",
+      "name": "Devdaha Sacred Forest",
+      "description": "A lush forest area rich in biodiversity, perfect for nature walks, birdwatching, and experiencing the tranquility of the wilderness.",
+      "category": "Nature"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
+      "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
       "description": "The remnants of an ancient palace believed to be the residence of Queen Mayadevi. The site provides insight into the historical significance of the area.",
