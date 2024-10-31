@@ -12,6 +12,16 @@
     },
     {
       "province": "Koshi",
+      "district": "Makalu-Barun National Park",
+      "municipality": "Makalu Rural Municipality",
+      "address": "Makalu Base Camp",
+      "name": "Makalu Base Camp",
+      "image": "/Images/makalu.jpg",
+      "description": "Makalu Base Camp offers stunning views of the world's fifth-highest mountain, Makalu, and is a popular trekking destination in the eastern Himalayas.",
+      "category": "Trekking"
+    },    
+    {
+      "province": "Koshi",
       "district": "Taplejung",
       "municipality": "Pathivara Rural Municipality",
       "address": "Pathivara",
@@ -69,7 +79,17 @@
       "image": "/Images/gosaikunda.jpg",
       "description": "Gosaikunda Lake is a sacred alpine lake situated at an altitude of 4,380 meters (14,370 feet) and is an important pilgrimage site for Hindus.",
       "category": "Tourism"
-    },    
+    },
+    {
+      "province": "Bagmati",
+      "district": "Nuwakot",
+      "municipality": "Kakani Rural Municipality",
+      "address": "Kakani",
+      "name": "Kakani",
+      "image": "/Images/kakani.jpg",
+      "description": "Kakani is a serene hill station near Kathmandu, known for its panoramic views of the Himalayas and strawberry farming.",
+      "category": "Tourism"
+    },        
     {
       "province": "Bagmati",
       "district": "Kathmandu",
