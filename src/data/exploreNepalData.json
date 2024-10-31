@@ -101,6 +101,16 @@
       "category": "Religious"
     },
     {
+      "province": "Bagmati",
+      "district": "Bhaktapur",
+      "municipality": "Nagarkot Municipality",
+      "address": "Nagarkot",
+      "name": "Nagarkot",
+      "image": "/Images/nagarkot.jpg",
+      "description": "Nagarkot is a popular hill station near Kathmandu, known for its stunning sunrise views over the Himalayas and trekking opportunities.",
+      "category": "Tourism"
+    },
+    {
       "province": "Gandaki",
       "district": "Baglung",
       "municipality": "Dhorpatan Municipality",
