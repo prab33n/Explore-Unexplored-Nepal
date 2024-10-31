@@ -162,6 +162,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Chapapani",
+    "name": "Chapapani Hot Spring",
+    "description": "A natural hot spring frequented by locals, believed to have therapeutic properties.",
+    "category": "Nature"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Putalibazar Municipality",
     "address": "Syangja",
     "name": "Bhalupahad",
