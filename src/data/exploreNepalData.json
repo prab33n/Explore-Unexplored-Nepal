@@ -12,6 +12,16 @@
     },
     {
       "province": "Koshi",
+      "district": "Makalu-Barun National Park",
+      "municipality": "Makalu Rural Municipality",
+      "address": "Makalu Base Camp",
+      "name": "Makalu Base Camp",
+      "image": "/Images/makalu.jpg",
+      "description": "Makalu Base Camp offers stunning views of the world's fifth-highest mountain, Makalu, and is a popular trekking destination in the eastern Himalayas.",
+      "category": "Trekking"
+    },    
+    {
+      "province": "Koshi",
       "district": "Taplejung",
       "municipality": "Pathivara Rural Municipality",
       "address": "Pathivara",
@@ -242,7 +252,7 @@
       "province": "Gandaki",
       "district": "Syangja",
       "name": "Chirag Higher Secondary School",
-      "address": "Upper Galyang"
+      "address": "Upper Galyang",
       "description": "It is an Educational institution with highest educational recognitions and quality",
       "category": "Educational"
     },
