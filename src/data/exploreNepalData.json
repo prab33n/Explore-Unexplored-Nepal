@@ -152,6 +152,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Gharamdi",
+    "name": "Gharamdi Suspension Bridge",
+    "description": "A long suspension bridge connecting rural areas with scenic views of the river below.",
+    "category": "Adventure"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Waling Municipality",
     "address": "Waling",
     "name": "Chhaya Chhetra Temple (Chhangchhangdi)",
