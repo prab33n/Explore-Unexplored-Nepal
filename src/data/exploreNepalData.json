@@ -240,6 +240,12 @@
       "description": "Located in Phewa Lake, this temple lake is known for its cultural significance and beautiful surroundings.",
       "category": "Tourism"
     },     
+      "address": "Near Pokhara, Kaski District",
+      "name": "Begnas Lake",
+      "image": "/Images/begnas_lake.jpg",
+      "description": "Begnas Lake is a serene freshwater lake located about 15 km east of Pokhara. It is known for its tranquil environment, picturesque surroundings, and boating opportunities.",
+      "category": "Tourism"
+    },             
     {
       "province": "Gandaki",
       "district": "Mustang",
@@ -568,6 +574,16 @@
       "image": "/Images/kakre_bihar.jpg",
       "description": "Kakre Bihar is an ancient archaeological site featuring the ruins of a historic Buddhist monastery, attracting researchers and tourists interested in history and spirituality.",
       "category": "Cultural Heritage"
+    },
+    {
+      "province": "Karnali",
+      "district": "Dolpa",
+      "municipality": "Shey Phoksundo Rural Municipality",
+      "address": "Phoksundo National Park",
+      "name": "Shey Phoksundo Lake",
+      "image": "/Images/shey_phoksundo.jpg",
+      "description": "Shey Phoksundo Lake is the deepest lake in Nepal, located at an altitude of 3,613 meters (11,821 feet) within the stunning Phoksundo National Park.",
+      "category": "Tourism"
     },    
     {
       "province": "Karnali",
@@ -587,16 +603,8 @@
       "name": "Badimalika Temple",
       "image": "/Images/badimalika.jpg",
       "description": "Badimalika is a significant religious site known for the Badimalika Temple, located at an altitude of about 4,200 meters (13,780 feet), attracting numerous pilgrims and trekkers.",
-    },
-    {
-      "district": "Dolpa",
-      "municipality": "Shey Phoksundo Rural Municipality",
-      "address": "Phoksundo National Park",
-      "name": "Shey Phoksundo Lake",
-      "image": "/Images/shey_phoksundo.jpg",
-      "description": "Shey Phoksundo Lake is the deepest lake in Nepal, located at an altitude of 3,613 meters (11,821 feet) within the stunning Phoksundo National Park.",
-      "category": "Tourism"
     }
+   
     
   ]
 
