@@ -133,6 +133,15 @@
       "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Galyang Municipality",
+      "address": "Upper Galyang",
+      "name": "Bhanu Bhakta Acharya MA VI",
+      "description": "It is an Educational institution with technical stream.",
+      "category": "Educational"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
       "address": "Galyang 03 Syangja",
       "name": "Aalam Devi Mandir",
       "image" : "/Images/aalamdevi.jpg",
