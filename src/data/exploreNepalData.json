@@ -404,6 +404,15 @@
       "category": "Religious"
     },
     {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Darsing Phedi",
+      "name": "Darsing Cave",
+      "description": "A hidden cave with unique rock formations, rumored to have historical significance.",
+      "category": "Adventure"
+    },
+    {
       "province": "Lumbini",
       "district": "Palpa",
       "municipality": "Tansen Municipality",
