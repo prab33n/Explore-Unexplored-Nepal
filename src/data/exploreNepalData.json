@@ -152,6 +152,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Naya Gaun",
+    "name": "Naya Gaun Tea Garden",
+    "description": "A lesser-known tea garden with stunning views and fresh air, perfect for tea lovers and photographers.",
+    "category": "Nature"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Waling Municipality",
     "address": "Waling",
     "name": "Chhaya Chhetra Temple (Chhangchhangdi)",
