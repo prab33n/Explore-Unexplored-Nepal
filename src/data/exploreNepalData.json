@@ -152,6 +152,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Galyang Bazaar",
+    "name": "Old Galyang Bazaar",
+    "description": "A traditional marketplace reflecting the lifestyle and culture of Galyang.",
+    "category": "Cultural"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Waling Municipality",
     "address": "Waling",
     "name": "Chhaya Chhetra Temple (Chhangchhangdi)",
