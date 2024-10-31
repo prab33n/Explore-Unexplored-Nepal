@@ -631,6 +631,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Buddha Nagar Rural Municipality",
+      "address": "Near Kotihawa, Buddha Nagar, Rupandehi",
+      "name": "Kotihawa Stupa",
+      "description": "A lesser-known stupa that holds cultural and historical significance. The site is peaceful and perfect for meditation and contemplation.",
+      "category": "Religious"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
