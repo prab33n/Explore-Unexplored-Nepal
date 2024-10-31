@@ -667,6 +667,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Siddhartha Highway, Rupandehi",
+      "name": "Maijogmai Lake",
+      "description": "A hidden lake surrounded by lush greenery, ideal for picnics and relaxation away from the bustling tourist areas.",
+      "category": "Nature"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
