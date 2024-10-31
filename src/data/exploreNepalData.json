@@ -162,6 +162,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Galyang",
+    "name": "Kalika Temple",
+    "description": "A quiet temple located on a hilltop, offering breathtaking views of the valley. It is dedicated to the goddess Kali and visited mainly by locals.",
+    "category": "Religious"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Putalibazar Municipality",
     "address": "Syangja",
     "name": "Bhalupahad",
