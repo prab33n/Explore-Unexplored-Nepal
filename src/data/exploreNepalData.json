@@ -288,6 +288,15 @@
     },
     {
       "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Galyang",
+      "name": "Buddha Shanti Stupa",
+      "description": "A peaceful stupa located on a hill, offering stunning views of the surrounding landscape and a perfect place for meditation.",
+      "category": "Religious"
+    },
+    {
+      "province": "Gandaki",
       "district": "Baglung",
       "municipality": "Dhorpatan Municipality",
       "address": "Dhorpatan",
