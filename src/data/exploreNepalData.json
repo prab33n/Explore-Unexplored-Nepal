@@ -102,6 +102,14 @@
     },
     {
       "province": "Bagmati",
+      "district": "Lalitpur",
+      "municipality": "Lalitpur Metropolitan City",
+      "address": "Patan",
+      "name": "Patan Durbar Square",
+      "image": "/Images/patan.jpg",
+      "description": "Patan Durbar Square is a UNESCO World Heritage Site known for its stunning architecture, ancient temples, and rich history.",
+      "category": "Cultural Heritage"
+    },    
       "district": "Bhaktapur",
       "municipality": "Nagarkot Municipality",
       "address": "Nagarkot",
@@ -232,7 +240,7 @@
       "province": "Gandaki",
       "district": "Syangja",
       "name": "Chirag Higher Secondary School",
-      "address": "Upper Galyang"
+      "address": "Upper Galyang",
       "description": "It is an Educational institution with highest educational recognitions and quality",
       "category": "Educational"
     },
