@@ -12,6 +12,36 @@
     },
     {
       "province": "Koshi",
+      "district": "Ilam",
+      "municipality": "Mai Municipality",
+      "address": "Mai Pokhari",
+      "name": "Mai Pokhari",
+      "image": "/Images/mai_pokhari.jpg",
+      "description": "Mai Pokhari is a serene pond surrounded by lush forests and is a popular spot for picnics and nature walks.",
+      "category": "Nature"
+    },
+    {
+      "province": "Koshi",
+      "district": "Dhankuta",
+      "municipality": "Dhankuta Municipality",
+      "address": "Hile",
+      "name": "Hile",
+      "image": "/Images/hile.jpg",
+      "description": "Hile is a picturesque town famous for its stunning views of the Himalayas and is a popular stop for trekkers heading to the eastern regions.",
+      "category": "Nature"
+    },    
+    {
+      "province": "Koshi",
+      "district": "Udayapur",
+      "municipality": "Udayapur Municipality",
+      "address": "Brahmakhal",
+      "name": "Brahmakhal",
+      "image": "/Images/brahmakhal.jpg",
+      "description": "Brahmakhal is a scenic area in Udayapur known for its beautiful landscapes and cultural significance, making it ideal for trekking and outdoor activities.",
+      "category": "Nature"
+    },    
+    {
+      "province": "Koshi",
       "district": "Makalu-Barun National Park",
       "municipality": "Makalu Rural Municipality",
       "address": "Makalu Base Camp",
@@ -50,6 +80,16 @@
       "description": " It is cave and temple which has  venerated pilgrimage site for Hindus, Buddhists and Kirat.",
       "category": "Religious"
     },
+    {
+      "province": "Koshi",
+      "district": "Jhapa",
+      "municipality": "Kankai Municipality",
+      "address": "Kankai",
+      "name": "Kankai",
+      "image": "/Images/kankai.jpg",
+      "description": "Kankai is known for the Kankai Mai Temple, a significant pilgrimage site, and its surrounding natural beauty, attracting both pilgrims and tourists.",
+      "category": "Pilgrimage"
+    },    
     {
       "province": "Madesh",
       "district": "Dhanusa",
@@ -200,6 +240,16 @@
       "description": "Begnas Lake is a serene freshwater lake located about 15 km east of Pokhara. It is known for its tranquil environment, picturesque surroundings, and boating opportunities.",
       "category": "Tourism"
     },             
+    {
+      "province": "Gandaki",
+      "district": "Mustang",
+      "municipality": "Thasang Rural Municipality",
+      "address": "Muktinath",
+      "name": "Muktinath Temple",
+      "image": "/Images/muktinath.jpg",
+      "description": "Muktinath is a sacred site for both Hindus and Buddhists, known for its temple and the 108 water spouts, set against a stunning mountain backdrop.",
+      "category": "Pilgrimage"
+    },              
     {
       "province": "Gandaki",
       "district": "Tanahun",
@@ -359,12 +409,30 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Galyang Bazaar",
+    "name": "Old Galyang Bazaar",
+    "description": "A traditional marketplace reflecting the lifestyle and culture of Galyang.",
+    "category": "Cultural"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Waling Municipality",
     "address": "Waling",
     "name": "Chhaya Chhetra Temple (Chhangchhangdi)",
     "image" : "/Images/Chhangchhangdi.jpg",
     "description": "This is an ancient temple containing various religious aspects. This temple is very popular as lord Shiva is worshiped out there.",
     "category": "Religious"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
+    "municipality": "Phedikhola Rural Municipality",
+    "address": "Beldanda",
+    "name": "Beldanda Hiking Trail",
+    "description": "A scenic hiking trail with opportunities to spot local wildlife and enjoy nature.",
+    "category": "Adventure"
   },
   {
     "province": "Gandaki",
@@ -379,12 +447,30 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Galyang",
+    "name": "Bhirkot Fort",
+    "description": "An ancient fort that once served as a military stronghold, now a historical site with scenic views.",
+    "category": "Historical"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Waling Municipality",
     "address": "sorek",
     "name": "sorek maidan",
     "image" : "/Images/sorek.jpg",
     "description": "It is hill providing beautiful scenario with clouds and feels like a way to heaven. Also often professional paragliders also do paraglidings from there",
     "category": "Adventure"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Simalchaur",
+    "name": "Simalchaur Viewpoint",
+    "description": "A lesser-known viewpoint offering a panoramic view of the Annapurna range and surrounding landscapes.",
+    "category": "Scenic"
   },
     {
       "province": "Gandaki",
@@ -397,6 +483,25 @@
       "category": "Religious"
     },
     {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Darsing Phedi",
+      "name": "Darsing Cave",
+      "description": "A hidden cave with unique rock formations, rumored to have historical significance.",
+      "category": "Adventure"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Gulmi",
+      "municipality": "Resunga Municipality",
+      "address": "Resunga Hill, Gulmi",
+      "name": "Resunga",
+      "image": "/Images/resunga.jpg",
+      "description": "Resunga is a prominent hill located in Gulmi, known for its panoramic views, lush forests, and the historical Resunga Temple. It is a popular destination for trekking and offers cultural experiences related to the local communities.",
+      "category": "Tourism"
+    },    
+    {
       "province": "Lumbini",
       "district": "Palpa",
       "municipality": "Tansen Municipality",
@@ -405,6 +510,15 @@
       "image" : "/Images/ranimahal.jpg",
       "description": "Historical palace for a queen made by a king.",
       "category": "Religious"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Majuwa",
+      "name": "Majuwa Waterfall",
+      "description": "A beautiful waterfall located in a serene environment, popular among locals for relaxation and picnics.",
+      "category": "Nature"
     },
     {
       "province": "Lumbini",
@@ -425,6 +539,15 @@
       "image" : "/Images/lumbini.png",
       "description": "Birth Place of Lord Buddha",
       "category": "Religious"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Kharel Danda",
+      "name": "Kharel Danda Hilltop",
+      "description": "A quiet hilltop perfect for sunset views and peaceful solitude.",
+      "category": "Scenic"
     },
     {
       "province": "Karnali",
