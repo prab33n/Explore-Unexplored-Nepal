@@ -593,6 +593,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Siddhartha Highway, Rupandehi, near the border of Lumbini",
+      "name": "Buddha Garden",
+      "description": "A hidden garden featuring various species of plants, statues of Buddha, and peaceful walking paths. It offers a relaxing environment for meditation and enjoying nature.",
+      "category": "Nature"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
       "name": "Lumbini",
