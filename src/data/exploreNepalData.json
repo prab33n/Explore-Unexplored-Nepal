@@ -114,6 +114,16 @@
       "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Galyang Municipality",
+      "address": "Galyang 03 falang",
+      "name": "Karuna Driving Institute",
+      "image" : " ",
+      "description": " A driving school that is providing driving classes from more than 6+ years, A+ driving institute in town.",
+      "category": "School"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
       "address": "Sirsekot",
       "name": "Akaladevi Temple",
       "image" : "/Images/akaladevi.png",
