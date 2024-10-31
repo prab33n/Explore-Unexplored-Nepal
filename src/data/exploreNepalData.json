@@ -162,6 +162,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Phedikhola Rural Municipality",
+    "address": "Beldanda",
+    "name": "Beldanda Hiking Trail",
+    "description": "A scenic hiking trail with opportunities to spot local wildlife and enjoy nature.",
+    "category": "Adventure"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Putalibazar Municipality",
     "address": "Syangja",
     "name": "Bhalupahad",
