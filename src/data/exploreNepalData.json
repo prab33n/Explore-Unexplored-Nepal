@@ -152,6 +152,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Harichaur",
+    "name": "Harichaur Monastery",
+    "description": "A secluded monastery offering spiritual solace and a glimpse into Buddhist practices.",
+    "category": "Religious"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Waling Municipality",
     "address": "Waling",
     "name": "Chhaya Chhetra Temple (Chhangchhangdi)",
