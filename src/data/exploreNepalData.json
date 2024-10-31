@@ -288,6 +288,15 @@
     },
     {
       "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Khaireni, Galyang",
+      "name": "Khaireni Waterfall",
+      "description": "A hidden waterfall that is perfect for a refreshing swim and enjoying nature.",
+      "category": "Natural"
+    },
+    {
+      "province": "Gandaki",
       "district": "Baglung",
       "municipality": "Dhorpatan Municipality",
       "address": "Dhorpatan",
