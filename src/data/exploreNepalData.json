@@ -640,6 +640,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Lumbini Gardens, Siddharthanagar, Rupandehi",
+      "name": "Lumbini Cultural Village",
+      "description": "A cultural village showcasing traditional Nepali lifestyle, crafts, and cuisine. Visitors can interact with locals and learn about their customs.",
+      "category": "Cultural"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
