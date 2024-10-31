@@ -82,6 +82,16 @@
     },
     {
       "province": "Gandaki",
+      "district": "Baglung",
+      "municipality": "Dhorpatan Municipality",
+      "address": "Dhorpatan",
+      "name": "Dhorpatan Hunting Reserve",
+      "image": "/Images/dhorpatan.jpg",
+      "description": "Dhorpatan is a renowned hunting reserve and trekking destination, famous for its diverse wildlife and stunning landscapes, located at an altitude of around 2,850 meters (9,350 feet).",
+      "category": "Tourism"
+    },    
+    {
+      "province": "Gandaki",
       "district": "Kaski",
       "municipality": "Lekhnath",
       "address": "Pokhara Pumdikot",
@@ -109,7 +119,17 @@
       "image": "/Images/phewa.jpg",
       "description": "Phewa Lake is a stunning freshwater lake known for its scenic beauty and the reflection of the Annapurna mountain range, popular for boating and fishing.",
       "category": "Tourism"
-    },    
+    },  
+    {
+      "province": "Gandaki",
+      "district": "Kaski",
+      "municipality": "Mardi Rural Municipality",
+      "address": "Annapurna Base Camp",
+      "name": "Annapurna Base Camp",
+      "image": "/Images/abc.jpg",
+      "description": "Annapurna Base Camp is a popular trekking destination located at an altitude of 4,130 meters (13,550 feet), offering breathtaking views of the Annapurna massif.",
+      "category": "Trekking"
+    },      
     {
       "province": "Gandaki",
       "district": "Syangja",
@@ -257,6 +277,14 @@
       "name": "Badimalika Temple",
       "image": "/Images/badimalika.jpg",
       "description": "Badimalika is a significant religious site known for the Badimalika Temple, located at an altitude of about 4,200 meters (13,780 feet), attracting numerous pilgrims and trekkers.",
+    },
+    {
+      "district": "Dolpa",
+      "municipality": "Shey Phoksundo Rural Municipality",
+      "address": "Phoksundo National Park",
+      "name": "Shey Phoksundo Lake",
+      "image": "/Images/shey_phoksundo.jpg",
+      "description": "Shey Phoksundo Lake is the deepest lake in Nepal, located at an altitude of 3,613 meters (11,821 feet) within the stunning Phoksundo National Park.",
       "category": "Tourism"
     }
     
