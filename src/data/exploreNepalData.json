@@ -42,6 +42,16 @@
     },
     {
       "province": "Bagmati",
+      "district": "Rasuwa",
+      "municipality": "Langtang Rural Municipality",
+      "address": "Gosaikunda",
+      "name": "Gosaikunda Lake",
+      "image": "/Images/gosaikunda.jpg",
+      "description": "Gosaikunda Lake is a sacred alpine lake situated at an altitude of 4,380 meters (14,370 feet) and is an important pilgrimage site for Hindus.",
+      "category": "Tourism"
+    },    
+    {
+      "province": "Bagmati",
       "district": "Kathmandu",
       "municipality": "Kathmandu Metropolitan City",
       "address": "Gaushala",
@@ -79,6 +89,16 @@
       "image" : "/Images/pumdikot.jpg",
       "description": "Pumdikot has the second tallest statue of Shiva in Nepal. The statue itself is 51 feet tall. It sits on a white stupa that adds 57 feet in height, making the entire structure 108 feet high.",
       "category": "Religious"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Manang",
+      "municipality": "Manang Rural Municipality",
+      "address": "Tilicho Base Camp",
+      "name": "Tilicho Lake",
+      "image": "/Images/tilicho.jpg",
+      "description": "Tilicho Lake is one of the highest lakes in the world, located at an altitude of 4,919 meters (16,138 feet) in the Nepalese Himalayas.",
+      "category": "Tourism"
     },
     {
       "province": "Gandaki",
