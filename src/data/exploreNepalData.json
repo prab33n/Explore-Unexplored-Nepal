@@ -288,6 +288,15 @@
     },
     {
       "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Near Bichhaya",
+      "name": "Bichhaya Lake",
+      "description": "A serene lake surrounded by hills, ideal for picnics and enjoying the tranquil environment.",
+      "category": "Natural"
+    },
+    {
+      "province": "Gandaki",
       "district": "Baglung",
       "municipality": "Dhorpatan Municipality",
       "address": "Dhorpatan",
