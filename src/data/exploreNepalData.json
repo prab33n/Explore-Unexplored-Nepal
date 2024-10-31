@@ -32,6 +32,16 @@
     },    
     {
       "province": "Koshi",
+      "district": "Udayapur",
+      "municipality": "Udayapur Municipality",
+      "address": "Brahmakhal",
+      "name": "Brahmakhal",
+      "image": "/Images/brahmakhal.jpg",
+      "description": "Brahmakhal is a scenic area in Udayapur known for its beautiful landscapes and cultural significance, making it ideal for trekking and outdoor activities.",
+      "category": "Nature"
+    },    
+    {
+      "province": "Koshi",
       "district": "Makalu-Barun National Park",
       "municipality": "Makalu Rural Municipality",
       "address": "Makalu Base Camp",
