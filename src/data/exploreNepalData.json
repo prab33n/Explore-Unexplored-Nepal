@@ -133,6 +133,16 @@
       "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Galyang Municipality",
+      "address": "Lower Galyang",
+      "name": "Pragya Kirana Pasal",
+      "image" : "N/A",
+      "description": "A shop with all the household goods and things, catch it",
+      "category": "Adventure"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
       "address": "Galyang 03 Syangja",
       "name": "Aalam Devi Mandir",
       "image" : "/Images/aalamdevi.jpg",
