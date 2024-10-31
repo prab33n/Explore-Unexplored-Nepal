@@ -584,6 +584,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Buddha Nagar Rural Municipality",
+      "address": "Near Dhaneswori River, Buddha Nagar, Rupandehi",
+      "name": "Dhaneswori Temple",
+      "description": "A picturesque temple situated along the Dhaneswori River, offering stunning views and a tranquil atmosphere. It’s a popular site for local festivals.",
+      "category": "Religious"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
       "name": "Lumbini",
