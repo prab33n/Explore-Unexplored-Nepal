@@ -162,6 +162,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Chisapani",
+    "name": "Chisapani Temple",
+    "description": "A historic temple known for its ancient architecture and significance in local festivals.",
+    "category": "Religious"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Putalibazar Municipality",
     "address": "Syangja",
     "name": "Bhalupahad",
