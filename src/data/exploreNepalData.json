@@ -229,11 +229,17 @@
       "image": "/Images/ghandruk.jpg",
       "description": "Ghandruk is a charming Gurung village that offers stunning views of the Annapurna range and serves as a gateway for treks in the Annapurna region.",
       "category": "Cultural Tourism"
-    },  
+    },
     {
       "province": "Gandaki Province",
       "district": "Kaski",
       "municipality": "Pokhara Metropolitan City",
+      "address": "Pokhara, Kaski District",
+      "name": "Tal Barahi Temple ",
+      "image": "/Images/tal_barahi.jpg",
+      "description": "Located in Phewa Lake, this temple lake is known for its cultural significance and beautiful surroundings.",
+      "category": "Tourism"
+    },     
       "address": "Near Pokhara, Kaski District",
       "name": "Begnas Lake",
       "image": "/Images/begnas_lake.jpg",
