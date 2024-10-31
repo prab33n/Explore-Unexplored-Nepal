@@ -229,7 +229,23 @@
       "image": "/Images/ghandruk.jpg",
       "description": "Ghandruk is a charming Gurung village that offers stunning views of the Annapurna range and serves as a gateway for treks in the Annapurna region.",
       "category": "Cultural Tourism"
-    }, 
+    },
+    {
+      "province": "Gandaki Province",
+      "district": "Kaski",
+      "municipality": "Pokhara Metropolitan City",
+      "address": "Pokhara, Kaski District",
+      "name": "Tal Barahi Temple ",
+      "image": "/Images/tal_barahi.jpg",
+      "description": "Located in Phewa Lake, this temple lake is known for its cultural significance and beautiful surroundings.",
+      "category": "Tourism"
+    },     
+      "address": "Near Pokhara, Kaski District",
+      "name": "Begnas Lake",
+      "image": "/Images/begnas_lake.jpg",
+      "description": "Begnas Lake is a serene freshwater lake located about 15 km east of Pokhara. It is known for its tranquil environment, picturesque surroundings, and boating opportunities.",
+      "category": "Tourism"
+    },             
     {
       "province": "Gandaki",
       "district": "Mustang",
@@ -418,7 +434,7 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
-    "municipality": "Galyang Municipality",
+    "municipality": "Arjunchaupari",
     "address": "Waling-Tansen Road",
     "name": "Pothana Pass",
     "description": "A beautiful pass offering panoramic views of the hills and terraced farms along the route.",
@@ -523,6 +539,69 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Siddhartha Highway, Siddharthanagar, Rupandehi",
+      "name": "Khanchan Dham",
+      "description": "A tranquil spiritual site featuring ancient shrines, meditation areas, and beautiful gardens. It is known for its peaceful environment and historical significance, attracting those seeking spiritual solace.",
+      "category": "Religious"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
+      "municipality": "Devdaha Municipality",
+      "address": "Devdaha, Rupandehi, near Devdaha Market",
+      "name": "Bishwokarma Temple",
+      "description": "This temple is dedicated to Bishwokarma, the deity of craftsmanship and artisans. Surrounded by lush fields and local villages, it serves as a community gathering place for festivals and rituals.",
+      "category": "Religious"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
+      "municipality": "Mayadevi Rural Municipality",
+      "address": "Mayadevi, Rupandehi, near Lumbini Garden",
+      "name": "Puskar Pond",
+      "description": "A serene pond with significant historical ties to the birthplace of Queen Mayadevi, the mother of Buddha. The area is ideal for peaceful reflection and birdwatching.",
+      "category": "Nature"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Gaddhi Danda, Siddharthanagar, Rupandehi",
+      "name": "Gaddhi Danda",
+      "description": "A hill offering panoramic views of the surrounding landscape. It's a perfect spot for hiking, picnics, and watching the sunset.",
+      "category": "Scenic"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
+      "municipality": "Devdaha Municipality",
+      "address": "Devdaha, near the ancient Devdaha Palace",
+      "name": "Devdaha Palace Ruins",
+      "description": "The remnants of an ancient palace believed to be the residence of Queen Mayadevi. The site provides insight into the historical significance of the area.",
+      "category": "Historical"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
+      "municipality": "Buddha Nagar Rural Municipality",
+      "address": "Near Dhaneswori River, Buddha Nagar, Rupandehi",
+      "name": "Dhaneswori Temple",
+      "description": "A picturesque temple situated along the Dhaneswori River, offering stunning views and a tranquil atmosphere. It’s a popular site for local festivals.",
+      "category": "Religious"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Siddhartha Highway, Rupandehi, near the border of Lumbini",
+      "name": "Buddha Garden",
+      "description": "A hidden garden featuring various species of plants, statues of Buddha, and peaceful walking paths. It offers a relaxing environment for meditation and enjoying nature.",
+      "category": "Nature"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
       "name": "Lumbini",
@@ -558,6 +637,16 @@
       "image": "/Images/kakre_bihar.jpg",
       "description": "Kakre Bihar is an ancient archaeological site featuring the ruins of a historic Buddhist monastery, attracting researchers and tourists interested in history and spirituality.",
       "category": "Cultural Heritage"
+    },
+    {
+      "province": "Karnali",
+      "district": "Dolpa",
+      "municipality": "Shey Phoksundo Rural Municipality",
+      "address": "Phoksundo National Park",
+      "name": "Shey Phoksundo Lake",
+      "image": "/Images/shey_phoksundo.jpg",
+      "description": "Shey Phoksundo Lake is the deepest lake in Nepal, located at an altitude of 3,613 meters (11,821 feet) within the stunning Phoksundo National Park.",
+      "category": "Tourism"
     },    
     {
       "province": "Karnali",
@@ -577,16 +666,8 @@
       "name": "Badimalika Temple",
       "image": "/Images/badimalika.jpg",
       "description": "Badimalika is a significant religious site known for the Badimalika Temple, located at an altitude of about 4,200 meters (13,780 feet), attracting numerous pilgrims and trekkers.",
-    },
-    {
-      "district": "Dolpa",
-      "municipality": "Shey Phoksundo Rural Municipality",
-      "address": "Phoksundo National Park",
-      "name": "Shey Phoksundo Lake",
-      "image": "/Images/shey_phoksundo.jpg",
-      "description": "Shey Phoksundo Lake is the deepest lake in Nepal, located at an altitude of 3,613 meters (11,821 feet) within the stunning Phoksundo National Park.",
-      "category": "Tourism"
     }
+   
     
   ]
 
