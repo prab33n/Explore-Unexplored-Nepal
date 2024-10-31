@@ -202,6 +202,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Mayadevi Rural Municipality",
+      "address": "Mayadevi, Rupandehi, near Lumbini Garden",
+      "name": "Puskar Pond",
+      "description": "A serene pond with significant historical ties to the birthplace of Queen Mayadevi, the mother of Buddha. The area is ideal for peaceful reflection and birdwatching.",
+      "category": "Nature"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
       "name": "Lumbini",
