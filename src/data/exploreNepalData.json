@@ -288,6 +288,15 @@
     },
     {
       "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Near Bhir, Galyang",
+      "name": "Bhir Viewpoint",
+      "description": "A scenic viewpoint that offers breathtaking views of the surrounding mountains and valleys.",
+      "category": "Scenic"
+    },
+    {
+      "province": "Gandaki",
       "district": "Baglung",
       "municipality": "Dhorpatan Municipality",
       "address": "Dhorpatan",
