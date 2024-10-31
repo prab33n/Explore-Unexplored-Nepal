@@ -69,7 +69,17 @@
       "image": "/Images/gosaikunda.jpg",
       "description": "Gosaikunda Lake is a sacred alpine lake situated at an altitude of 4,380 meters (14,370 feet) and is an important pilgrimage site for Hindus.",
       "category": "Tourism"
-    },    
+    },
+    {
+      "province": "Bagmati",
+      "district": "Nuwakot",
+      "municipality": "Kakani Rural Municipality",
+      "address": "Kakani",
+      "name": "Kakani",
+      "image": "/Images/kakani.jpg",
+      "description": "Kakani is a serene hill station near Kathmandu, known for its panoramic views of the Himalayas and strawberry farming.",
+      "category": "Tourism"
+    },        
     {
       "province": "Bagmati",
       "district": "Kathmandu",
