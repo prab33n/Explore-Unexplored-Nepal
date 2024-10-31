@@ -162,6 +162,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Waling-Tansen Road",
+    "name": "Pothana Pass",
+    "description": "A beautiful pass offering panoramic views of the hills and terraced farms along the route.",
+    "category": "Scenic"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Putalibazar Municipality",
     "address": "Syangja",
     "name": "Bhalupahad",
