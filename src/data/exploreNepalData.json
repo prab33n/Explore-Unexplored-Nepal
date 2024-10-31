@@ -566,6 +566,24 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Gaddhi Danda, Siddharthanagar, Rupandehi",
+      "name": "Gaddhi Danda",
+      "description": "A hill offering panoramic views of the surrounding landscape. It's a perfect spot for hiking, picnics, and watching the sunset.",
+      "category": "Scenic"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
+      "municipality": "Devdaha Municipality",
+      "address": "Devdaha, near the ancient Devdaha Palace",
+      "name": "Devdaha Palace Ruins",
+      "description": "The remnants of an ancient palace believed to be the residence of Queen Mayadevi. The site provides insight into the historical significance of the area.",
+      "category": "Historical"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Lumbini Sasnkritik Rural Municipality",
       "address": "Lumbini",
       "name": "Lumbini",
