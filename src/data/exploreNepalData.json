@@ -61,6 +61,16 @@
       "category": "Religious"
     },
     {
+      "province": "Madhesh Province",
+      "district": "Morang",
+      "municipality": "Biratnagar Metropolitan City",
+      "address": "Biratnagar",
+      "name": "Siddhi Vinayak Temple",
+      "image": "/Images/birat.jpg",
+      "description": "Siddhi Vinayak Temple is dedicated to Lord Ganesha and is a significant site for worship, especially during festivals.",
+      "category": "Pilgrimage"
+    },    
+    {
       "province": " Madesh Province ",
       "district": "Bara",
       "municipality": "Gadhimai Municipality",
