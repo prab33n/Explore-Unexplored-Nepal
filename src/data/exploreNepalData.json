@@ -159,7 +159,17 @@
       "image": "/Images/langtang.jpg",
       "description": "Langtang Valley is a popular trekking destination known for its stunning landscapes, diverse wildlife, and traditional Tamang culture.",
       "category": "Trekking"
-    },       
+    },
+    {
+      "province": "Gandaki",
+      "district": "Kaski",
+      "municipality": "Ghandruk Rural Municipality",
+      "address": "Ghandruk",
+      "name": "Ghandruk",
+      "image": "/Images/ghandruk.jpg",
+      "description": "Ghandruk is a charming Gurung village that offers stunning views of the Annapurna range and serves as a gateway for treks in the Annapurna region.",
+      "category": "Cultural Tourism"
+    },           
     {
       "province": "Gandaki",
       "district": "Tanahun",
