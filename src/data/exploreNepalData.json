@@ -152,6 +152,15 @@
   {
     "province": "Gandaki",
     "district": "Syangja",
+    "municipality": "Galyang Municipality",
+    "address": "Thuli Pokhari",
+    "name": "Thuli Pokhari Lake",
+    "description": "A hidden lake surrounded by lush greenery, ideal for bird-watching and relaxation.",
+    "category": "Nature"
+  },
+  {
+    "province": "Gandaki",
+    "district": "Syangja",
     "municipality": "Waling Municipality",
     "address": "Waling",
     "name": "Chhaya Chhetra Temple (Chhangchhangdi)",
