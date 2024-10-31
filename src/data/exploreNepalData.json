@@ -12,6 +12,16 @@
     },
     {
       "province": "Koshi",
+      "district": "Taplejung",
+      "municipality": "Pathivara Rural Municipality",
+      "address": "Pathivara",
+      "name": "Pathivara Temple",
+      "image": "/Images/pathivara.jpg",
+      "description": "Pathivara Temple is a revered Hindu temple dedicated to the goddess Pathivara, located at an altitude of 3,794 meters (12,448 feet), offering stunning views of the surrounding mountains.",
+      "category": "Tourism"
+    },    
+    {
+      "province": "Koshi",
       "district": "Ilam",
       "municipality": "Suryodaya Municipality ",
       "address": "Bijayapur",
@@ -40,6 +50,16 @@
       "description": " It is is renowned as the birthplace of Sita from the Ramayana and a center of Mithila culture and art.",
       "category": "Religious"
     },
+    {
+      "province": " Madesh Province ",
+      "district": "Bara",
+      "municipality": "Gadhimai Municipality",
+      "address": "Gadhimai",
+      "name": "Gadhimai Temple",
+      "image": "/Images/gadhimai.jpg",
+      "description": "Gadhimai Temple is a famous Hindu temple dedicated to the goddess Gadhimai, known for its large animal sacrifice festival held every five years, attracting thousands of devotees.",
+      "category": "Tourism"
+    },    
     {
       "province": "Bagmati",
       "district": "Rasuwa",
@@ -81,6 +101,26 @@
       "category": "Religious"
     },
     {
+      "province": "Bagmati",
+      "district": "Bhaktapur",
+      "municipality": "Nagarkot Municipality",
+      "address": "Nagarkot",
+      "name": "Nagarkot",
+      "image": "/Images/nagarkot.jpg",
+      "description": "Nagarkot is a popular hill station near Kathmandu, known for its stunning sunrise views over the Himalayas and trekking opportunities.",
+      "category": "Tourism"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Baglung",
+      "municipality": "Dhorpatan Municipality",
+      "address": "Dhorpatan",
+      "name": "Dhorpatan Hunting Reserve",
+      "image": "/Images/dhorpatan.jpg",
+      "description": "Dhorpatan is a renowned hunting reserve and trekking destination, famous for its diverse wildlife and stunning landscapes, located at an altitude of around 2,850 meters (9,350 feet).",
+      "category": "Tourism"
+    },    
+    {
       "province": "Gandaki",
       "district": "Kaski",
       "municipality": "Lekhnath",
@@ -102,6 +142,26 @@
     },
     {
       "province": "Gandaki",
+      "district": "Kaski",
+      "municipality": "Pokhara Metropolitan City",
+      "address": "Pokhara",
+      "name": "Phewa Lake",
+      "image": "/Images/phewa.jpg",
+      "description": "Phewa Lake is a stunning freshwater lake known for its scenic beauty and the reflection of the Annapurna mountain range, popular for boating and fishing.",
+      "category": "Tourism"
+    },  
+    {
+      "province": "Gandaki",
+      "district": "Kaski",
+      "municipality": "Mardi Rural Municipality",
+      "address": "Annapurna Base Camp",
+      "name": "Annapurna Base Camp",
+      "image": "/Images/abc.jpg",
+      "description": "Annapurna Base Camp is a popular trekking destination located at an altitude of 4,130 meters (13,550 feet), offering breathtaking views of the Annapurna massif.",
+      "category": "Trekking"
+    },      
+    {
+      "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Galyang",
       "address": "Karadikhola, chiuri",
@@ -109,6 +169,26 @@
       "image" : "/Images/chiuribhir.png",
       "description": "It is known to be as an adventerous place with beautiful view of Aadhikhola river below and has a suspension bridge to experience the thrill.",
       "category": "Religious"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang",
+      "address": "Galyang 03, Upper Galyang",
+      "name": "Mangal Momo House",
+      "image" : " ",
+      "description": "If you are momo lover then you must go visit.",
+      "category": "Food"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Galyang 03 falang",
+      "name": "Karuna Driving Institute",
+      "image" : " ",
+      "description": " A driving school that is providing driving classes from more than 6+ years, A+ driving institute in town.",
+      "category": "School"
     },
     {
       "province": "Gandaki",
@@ -136,6 +216,23 @@
       "address": "Upper Galyang",
       "name": "Bhanu Bhakta Acharya MA VI",
       "description": "It is an Educational institution with technical stream.",
+      "category": "Educational"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "name": "Chirag Higher Secondary School",
+      "address": "Upper Galyang"
+      "description": "It is an Educational institution with highest educational recognitions and quality",
+      "category": "Educational"
+    },
+    {
+      "province": "Gandaki",
+      "district": "Syangja",
+      "municipality": "Galyang Municipality",
+      "address": "Galyang 03 Syangja",
+      "name": "BhuPu Sainik Secondary School",
+      "description": "It is an Educational institution with quality environment.",
       "category": "Educational"
     },
     {
@@ -227,6 +324,25 @@
       "image" : "/Images/rara.jpg",
       "description": "Rara lake is  the largest fresh water lake in the Nepalese Himalayas",
       "category": "Tourism"
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Achham",
+      "municipality": "Badimalika Municipality",
+      "address": "Badimalika",
+      "name": "Badimalika Temple",
+      "image": "/Images/badimalika.jpg",
+      "description": "Badimalika is a significant religious site known for the Badimalika Temple, located at an altitude of about 4,200 meters (13,780 feet), attracting numerous pilgrims and trekkers.",
+    },
+    {
+      "district": "Dolpa",
+      "municipality": "Shey Phoksundo Rural Municipality",
+      "address": "Phoksundo National Park",
+      "name": "Shey Phoksundo Lake",
+      "image": "/Images/shey_phoksundo.jpg",
+      "description": "Shey Phoksundo Lake is the deepest lake in Nepal, located at an altitude of 3,613 meters (11,821 feet) within the stunning Phoksundo National Park.",
+      "category": "Tourism"
     }
+    
   ]
 
