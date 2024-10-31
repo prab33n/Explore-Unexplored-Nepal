@@ -161,6 +161,16 @@
       "category": "Trekking"
     },
     {
+      "province": "Bagmati",
+      "district": "Kathmandu",
+      "municipality": "Kathmandu Metropolitan City",
+      "address": "Phulchoki",
+      "name": "Phulchoki Hill",
+      "image": "/Images/phulchoki.png",
+      "description": "Phulchoki is the highest hill surrounding the Kathmandu Valley, offering beautiful hiking trails, panoramic views, and diverse flora and fauna.",
+      "category": "Hiking"
+    },    
+    {
       "province": "Gandaki",
       "district": "Kaski",
       "municipality": "Ghandruk Rural Municipality",
