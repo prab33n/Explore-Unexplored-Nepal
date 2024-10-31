@@ -622,6 +622,15 @@
     {
       "province": "Lumbini",
       "district": "Rupandehi",
+      "municipality": "Siddharthanagar",
+      "address": "Near Siddhartha Highway, Siddharthanagar, Rupandehi",
+      "name": "Nandani Park",
+      "description": "A public park featuring walking trails, playgrounds, and picnic areas. It’s a favorite spot for families and children to enjoy outdoor activities.",
+      "category": "Nature"
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rupandehi",
       "municipality": "Devdaha Municipality",
       "address": "Devdaha, near the ancient Devdaha Palace",
       "name": "Devdaha Palace Ruins",
