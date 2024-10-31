@@ -12,6 +12,16 @@
     },
     {
       "province": "Koshi",
+      "district": "Solukhumbu",
+      "municipality": "Khumbu Pasanglhamu Rural Municipality ",
+      "address": "Sagarmatha National Park, Solukhumbu District",
+      "name": "Gokyo Lakes",
+      "image": "/Images/gokyo.jpg",
+      "description": "A series of high-altitude lakes known for their breathtaking views and trekking routes in the Everest region.",
+      "category": "Tourism"
+    },    
+    {
+      "province": "Koshi",
       "district": "Ilam",
       "municipality": "Mai Municipality",
       "address": "Mai Pokhari",
@@ -236,7 +246,7 @@
       "municipality": "Pokhara Metropolitan City",
       "address": "Pokhara, Kaski District",
       "name": "Tal Barahi Temple ",
-      "image": "/Images/tal_barahi.jpg",
+      "image": "/Images/Tal_barahi.jpg",
       "description": "Located in Phewa Lake, this temple lake is known for its cultural significance and beautiful surroundings.",
       "category": "Tourism"
     },     
