@@ -19,8 +19,17 @@
       "image": "/Images/mai_pokhari.jpg",
       "description": "Mai Pokhari is a serene pond surrounded by lush forests and is a popular spot for picnics and nature walks.",
       "category": "Nature"
-    }
-    
+    },
+    {
+      "province": "Koshi",
+      "district": "Dhankuta",
+      "municipality": "Dhankuta Municipality",
+      "address": "Hile",
+      "name": "Hile",
+      "image": "/Images/hile.jpg",
+      "description": "Hile is a picturesque town famous for its stunning views of the Himalayas and is a popular stop for trekkers heading to the eastern regions.",
+      "category": "Nature"
+    },    
     {
       "province": "Koshi",
       "district": "Makalu-Barun National Park",
