@@ -251,10 +251,11 @@
       "province": "Gandaki",
       "district": "Syangja",
       "municipality": "Galyang Municipality",
-      "address": "Upper Galyang",
-      "name": "Bhanu Bhakta Acharya MA VI",
-      "description": "It is an Educational institution with technical stream.",
-      "category": "Educational"
+      "address": "Lower Galyang",
+      "name": "Pragya Kirana Pasal",
+      "image" : "N/A",
+      "description": "A shop with all the household goods and things, catch it",
+      "category": "Adventure"
     },
     {
       "province": "Gandaki",
