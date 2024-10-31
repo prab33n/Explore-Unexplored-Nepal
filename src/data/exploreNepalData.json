@@ -550,6 +550,16 @@
       "category": "Tourism"
     },
     {
+      "province": "Karnali",
+      "district": "Surkhet",
+      "municipality": "Birendranagar Municipality",
+      "address": "Kakre Bihar, Surkhet",
+      "name": "Kakre Bihar",
+      "image": "/Images/kakre_bihar.jpg",
+      "description": "Kakre Bihar is an ancient archaeological site featuring the ruins of a historic Buddhist monastery, attracting researchers and tourists interested in history and spirituality.",
+      "category": "Cultural Heritage"
+    },    
+    {
       "province": "Sudurpashchim",
       "district": "Achham",
       "municipality": "Badimalika Municipality",
