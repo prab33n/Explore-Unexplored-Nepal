@@ -437,6 +437,16 @@
       "category": "Cultural Heritage"
     },    
     {
+      "province": "Karnali",
+      "district": "Surkhet",
+      "municipality": "Birendranagar Municipality",
+      "address": "Deuti Bajai, Surkhet",
+      "name": "Deuti Bajai",
+      "image": "/Images/deuti_bajai.jpg",
+      "description": "Deuti Bajai is a popular pilgrimage site located in Surkhet, dedicated to the goddess Bajai. It is known for its serene environment and attracts many devotees, especially during festivals.",
+      "category": "Pilgrimage"
+    },    
+    {
       "province": "Sudurpashchim",
       "district": "Achham",
       "municipality": "Badimalika Municipality",
